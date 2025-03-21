@@ -7,3 +7,4 @@ module.exports = {
   plugins: [],
 }
 
+// 수업때 한 내용
